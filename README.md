@@ -1,6 +1,3 @@
-# DOOMFire
-Projeto criado para aprender o algoritmo de fogo no jogo DOOM.
-
 <h1 align="center">DOOMFire</h1>
 
 <p align="center">Projeto criado para aprender o algoritmo de fogo no jogo DOOM.</p>
